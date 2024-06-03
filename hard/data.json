@@ -1,0 +1,62 @@
+[
+    {
+        "id": "001",
+        "name": "John Johnson",
+        "salary": 75000,
+        "department": "Engineering"
+    },
+    {
+        "id": "002",
+        "name": "Bob Smith",
+        "salary": 80000,
+        "department": "Marketing"
+    },
+    {
+        "id": "003",
+        "name": "Charlie Brown",
+        "salary": 60000,
+        "department": "Human Resources"
+    },
+    {
+        "id": "004",
+        "name": "Diana Perez",
+        "salary": 95000,
+        "department": "Engineering"
+    },
+    {
+        "id": "005",
+        "name": "Edward Stone",
+        "salary": 85000,
+        "department": "Marketing"
+    },
+    {
+        "id": "006",
+        "name": "Thomas Jefferson",
+        "salary": 70000,
+        "department": "Sales"
+    },
+    {
+        "id": "007",
+        "name": "George Washington",
+        "salary": 50000,
+        "department": "Customer Service"
+    },
+    {
+        "id": "008",
+        "name": "Harry Potter",
+        "salary": 72000,
+        "department": "Logistics"
+    },
+    {
+        "id": "009",
+        "name": "Ron Weasly",
+        "salary": 67000,
+        "department": "Finance"
+    },
+    {
+        "id": "010",
+        "name": "Jack Sparrow",
+        "salary": 78000,
+        "department": "Logistics"
+    }
+]
