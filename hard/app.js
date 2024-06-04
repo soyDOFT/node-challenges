@@ -14,8 +14,8 @@ app.get('/employees', (req, res) => {
 
 app.get('/employees/:id', (req, res) => {
     const employee = employees.find(obj => obj.id === req.params.id);
-    if (!employee) res.status(404).send('Employee does not exist')
+    if (!employee) res.status(404).send('Employee does not exist');
     res.send(employee);
 })
 
-app.listen(PORT, () => console.log(`Listening on port ${PORT}...`))
+app.listen(PORT, () => console.log(`Listening on port ${PORT}...`));
